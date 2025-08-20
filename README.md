@@ -1,16 +1,32 @@
-## Hi there 👋
+## Olá, me chamo João Gabriel!
 
-<!--
-**gabriel-cassuriaga/gabriel-cassuriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor de Software com foco em Backend e apaixonado pelo ecossistema Java/Spring. Atualmente, sou bolsista no Geração Caldeira, onde busco construir soluções robustas e eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Sobre mim
+
+- 🚀 **Bolsista:** [Geração Caldeira 2025!](https://www.geracaocaldeira.org/)
+- 🎓 **Formação:** Cursando Ciência da Computação na [UniRitter](https://www.uniritter.edu.br/)
+- 📧 **E-mail:** gabriel_cassuriaga@hotmail.com
+- 💼 **LinkedIn:** [João Gabriel C. da Cruz](https://www.linkedin.com/in/jo%C3%A3o-gabriel-c-da-cruz-95522b1b5/)
+- 💻 **Principal Projeto:** [Cositems TCC](https://github.com/gabriel-cassuriaga/tcc-fundatec-cositems)
+
+---
+
+### 🛠️ Tecnologias que Utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,nodejs,react,html,css,git,mysql,mongodb,aws,postman)](https://skillicons.dev)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/gabriel-cassuriaga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-cassuriaga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/gabriel-cassuriaga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-cassuriaga&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</p>
