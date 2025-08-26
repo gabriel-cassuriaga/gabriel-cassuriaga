@@ -16,7 +16,7 @@
 
 ### 🛠️ Tecnologias que Utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,nodejs,react,html,css,git,mysql,mongodb,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,git,mysql,mongodb,aws,postman)](https://skillicons.dev)
 
 ---
 
