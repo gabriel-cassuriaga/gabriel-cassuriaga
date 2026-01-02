@@ -25,11 +25,3 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-<p align="center">
-  <a href="https://github.com/gabriel-cassuriaga">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-cassuriaga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/gabriel-cassuriaga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-cassuriaga&layout=compact&langs_count=7&theme=transparent"/>
-  </a>
-</p>
