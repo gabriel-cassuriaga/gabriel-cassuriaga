@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257460-6ba6a7f2-9a0f-4318-a67c-16a70711f592.gif" alt="ilustração de backend" width="400px" align="right">
 
 <p align="left">
-  Olá, me chamo João Gabriel.
+  Hi there, I'm João Gabriel!
   <br>
   <br>
   I'm a Junior Software Developer at Tecnicon, focusing on building robust and scalable Fullstack solutions. I'm a Computer Science student at UniRitter and a passionate enthusiast of the Java/Spring ecosystem.
