@@ -4,7 +4,7 @@
   Olá, me chamo João Gabriel.
   <br>
   <br>
-  Sou um Desenvolvedor de Software com foco em Backend, apaixonado pelo ecossistema Java/Spring. Atualmente, sou bolsista no Geração Caldeira e estudante de Ciência da Computação na UniRitter, sempre buscando construir soluções robustas e eficientes.
+  I'm a Junior Software Developer at Tecnicon, focusing on building robust and scalable Fullstack solutions. I'm a Computer Science student at UniRitter and a passionate enthusiast of the Java/Spring ecosystem.
 </p>
 <br>
 <p align="left">
